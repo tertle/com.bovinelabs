@@ -8,7 +8,7 @@ If you want to support my work or get access to a few private libraries, [Buy Me
 
 ## Open Source
 
-### [Core](https://gitlab.com/tertle/com.bovinelabs.anchor)
+### [Core](https://gitlab.com/tertle/com.bovinelabs.core)
 Core is a library that provides numerous extensions, new containers, and tools for building games with DOTS.
 
 ### [Anchor](https://gitlab.com/tertle/com.bovinelabs.anchor)
