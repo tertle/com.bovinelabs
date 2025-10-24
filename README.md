@@ -21,7 +21,7 @@ Reaction is a framework for developing Unity DOTS applications that is designed 
 Essence is a stat library designed to work with the Reaction for Unity DOTS.
 
 ### [Nerve](https://gitlab.com/tertle/com.bovinelabs.nerve)
-Essence is a stat library designed to work with the Reaction for Unity DOTS.
+Nerve is an entities game state framework that supports NetCode
 
 ### [Cinemachine](https://gitlab.com/tertle/com.bovinelabs.cinemachine)
 Cinemachine is an Entities wrapper of Unity's cinemachine.
